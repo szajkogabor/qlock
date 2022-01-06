@@ -1,0 +1,17 @@
+BasedOnStyle: LLVM
+IndentWidth: 2
+AccessModifierOffset: -2
+AlignOperands: true
+AlwaysBreakTemplateDeclarations: true
+ColumnLimit: 120
+Cpp11BracedListStyle: true
+DerivePointerAlignment: false
+PointerAlignment: Left
+Standard: Cpp11
+AllowShortFunctionsOnASingleLine: false
+AllowShortBlocksOnASingleLine: false
+AllowAllConstructorInitializersOnNextLine: true
+AllowShortLambdasOnASingleLine: false
+IndentCaseLabels: true
+AlignAfterOpenBracket: true
+BreakConstructorInitializers: BeforeComma
